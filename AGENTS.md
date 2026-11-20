@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo packages the `attack-protection` agent skill, plus the `prs-fixes` and `prs-reviews` PR helper skills. Agent skill that makes AI-written code hold up against 8 common attacks.
+This repo packages the `attack-protection` agent skill. Agent skill that makes AI-written code hold up against 8 common attacks.
 
 ## Layout
 
